@@ -2,6 +2,10 @@
 
 This project is a full-stack CRUD application for managing friends, built with Flask (backend) and Next.js (frontend).
 
+I have build this project to learn how to integrate Next.js and Flask (and create pretty UI using ShadCn Library)
+
+The final version of this project isn't perfect, but I achived my main goal which was to learn how to integrate some of these tools together.
+
 ## Project Structure
 
 ```
